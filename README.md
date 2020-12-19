@@ -11,13 +11,7 @@
 </div>
 <div>
   <h2>Requirements:</h3>
-  <h6>
-    <ul>
-      <li><a href='https://www.python.org/download'>Python 3.8</a></li>
-      <li><a href='https://pypi.org/project/selenium/'>Selenium 3.141.0</a></li>
-      <li><a href='#'>Tkinter</a></li>
-    </ul>
-  </h6>
+  <h6>See the <a href='https://github.com/Parvat-web-dev/Selenium-IDE/blob/main/requirements.md'>requirements.md</a></h6>
   <hr>
   <h4>Installing tkinter:</h4>
   <code>
