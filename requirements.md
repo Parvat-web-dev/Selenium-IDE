@@ -1,5 +1,6 @@
 <h2 align='center'><strong>Requirements</strong></h2>
 <h5>
+  <h3>Note* : Till today, this Works only on <em>Windows 32-Bit</em>, but dont worry, we will make it soon Available for more OS!</h3>
 <ul>
   <li><h3>Python 3</h3>
     <p>
@@ -26,7 +27,7 @@
   <hr>
   <li><h3>Web Driver</h3>
     <p>
-      You will need a webdriver to make the IDE work. We provide you the webdrivers also, but it will work only on windows.<br>
+      You will need a webdriver to make the IDE work. We provide you the webdrivers for Windows 32-bit FireFox and chrome. also, but it will work only on windows.<br>
       So if you you have anyother OS, you can download from any of these sites.<br>
       Note the driver should be placed in the same directory where the IDE.py is placed.<br>
       You can download those from the official sites:
