@@ -46,3 +46,7 @@
   <hr>
 </div>
 <h6 text-size='10px'>More features will be added on request!</h6>
+<h6>
+  <h4>Credits :</h4>
+  <em>Parvat.R</em>
+</h6>
