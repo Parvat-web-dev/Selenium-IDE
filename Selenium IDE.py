@@ -157,7 +157,7 @@ def mainwindow():
         ok_btn.config(font='Courier 16')
         ok_btn.pack(side = BOTTOM)
             
-
+    #Creates a new file.
     def create_file():
         try:
             file = file_name.get()
