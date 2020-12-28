@@ -12,6 +12,7 @@
 <div>
   <h2>Requirements:</h3>
   <h6>See the <a href='https://github.com/Parvat-web-dev/Selenium-IDE/blob/main/requirements.md'>requirements.md</a></h6>
+  <h5>Note: This IDE only works on <em>Windows-32 Bit</em></h5>
   <hr>
   <h4>Installing tkinter:</h4>
   <code>
