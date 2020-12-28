@@ -52,7 +52,9 @@
   <ul>
   <h4>Credits :</h4>
     <li>
-    <em>Parvat.R</em>
+      <a href = 'https://github.com/Parvat-web-dev', target = '_blank'>
+        <em>Parvat.R</em> 
+      </a>
     </li>
   </ul>
 </h6>
