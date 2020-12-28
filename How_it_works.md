@@ -1,6 +1,7 @@
-
-
-<pre width = '1000'>
+<h1>How Selenium IDE works?</h1>
+<p>Read The below lines:</p>
+<p align='center'>Flow Chart</p>
+<pre>
 
                                                    +------------------+                 +--------------------------------------------------+
                                                    |  SeleniumModule  +---------------->+ file where the script is saved!|                 |
