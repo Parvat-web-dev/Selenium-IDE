@@ -6,7 +6,7 @@
 <p align='center'>
   Do you like Automating Browsers? Are you tired of typing a lot of codes?<br>
   We Bring you an IDE for the Automation of Browsers. No need of codes. Just<br>
-  Find the <a href='https://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath' target="_black">X-path</a> of an element an you can do anything with that!
+  Find the <a href='https://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath' target="_black">X-path</a> of an element and you can do anything with that!
 </p>
 </div>
 <div>
@@ -16,7 +16,7 @@
   <h5>Note: This IDE only works on <em>Windows-32 Bit.<br></em>
   But there is a way to use this in different OS. The steps are:</h5>
   <ul>
-    <li>Downloat all these files.</li>
+    <li>Download all these files.</li>
     <li>Then download geckdriver from <a href = 'https://github.com/mozilla/geckodriver/releases' target ='_blank'>Official Geckdock Driver released in Github</a>. This is for Firefox Users!</li>
     <li>If you prefer Chrome, then download the chromdriver form <a href='https://chromedriver.chromium.org/downloads' target = '_blank'>Chrom Driver</a> of your OS.</li>
     <li>Now, the next step is to delete the Chrome Driver[or]Geckdck Driver in this folder, and paste the driver that supports your OS</li>
