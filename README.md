@@ -4,7 +4,7 @@
 
 <div>
 <p align='center'>
-  Do you like Automaiting Browsers? Are you tired of typing a lot of codes?<br>
+  Do you like Automating Browsers? Are you tired of typing a lot of codes?<br>
   We Bring you an IDE for the Automation of Browsers. No need of codes. Just<br>
   Find the <a href='https://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath' target="_black">X-path</a> of an element an you can do anything with that!
 </p>
