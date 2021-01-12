@@ -19,8 +19,8 @@
     <li>Download all these files.</li>
     <li>Then download geckdockdriver from <a href = 'https://github.com/mozilla/geckodriver/releases' target ='_blank'>Official Geckdock Driver released in Github</a>. This is for Firefox Users!</li>
     <li>If you prefer Chrome, then download the chromdriver form <a href='https://chromedriver.chromium.org/downloads' target = '_blank'>Chrome Driver</a> of your OS.</li>
-    <li>Now, the next step is to delete the Chrome Driver[or]Geckdck Driver in this folder, and paste the driver that supports your OS</li>
-    <li>And you are done! This might work, if you have satisfied all the requitrments other than OS, Then this should work!</li>
+    <li>Now, the next step is to delete the Chrome Driver[or]Geckdock Driver in this folder, and paste the driver that supports your OS</li>
+    <li>And you are done! This might work, if you have satisfied all the requirements other than OS, Then this should work!</li>
   </ul>
   <hr>
   <h4>Installing tkinter:</h4>
